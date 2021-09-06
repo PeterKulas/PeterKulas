@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterKulas
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React.js, JS, HTML+CSS
 - 💞️ Codeabbey banner : https://www.codeabbey.com/index/user_banner/mrpeter.png
 - 📫 How to reach me ...
 
